@@ -57,4 +57,4 @@ neverallow {
 
 # Do not audit opening files
 dontaudit valord file_type:file open;
-
+dontaudit valord kernel:file open;
